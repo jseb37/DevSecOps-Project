@@ -14,15 +14,8 @@
   <p align="center">Home Page</p>
 </div>
 
-# **Youtube Video for step by step Demonstration!**
-[![Video Tutorial](https://img.youtube.com/vi/g8X5AoqCJHc/0.jpg)](https://youtu.be/g8X5AoqCJHc)
 
-
-## Susbcribe:
-[https://www.youtube.com/@cloudchamp?
-](https://www.youtube.com/@cloudchamp?sub_confirmation=1)
-
-# Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
+# DevSecOps Project On Netflix Clone using Jenkins,SonarQube,AWS EKS,Prometheus,ArgoCD and Grafana
 
 ### **Phase 1: Initial Setup and Deployment**
 
@@ -37,10 +30,9 @@
 - Clone your application's code repository onto the EC2 instance:
     
     ```bash
-    git clone https://github.com/N4si/DevSecOps-Project.git
+    git clone https://github.com/jseb37/DevSecOps-Project.git
     ```
-    
-
+  
 **Step 3: Install Docker and Run the App Using a Container:**
 
 - Set up Docker on the EC2 instance:
